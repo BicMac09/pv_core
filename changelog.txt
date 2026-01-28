@@ -1,0 +1,3 @@
+- Neu: Config Reload mit Diff-Log
+- Fix: Screenshot Fehler behoben
+- Optimierung: Performance verbessert
