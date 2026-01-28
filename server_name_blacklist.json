@@ -1,0 +1,13 @@
+{
+  "blocked_names": [
+    "leak",
+    "leaks",
+    "cracked",
+    "pirate",
+    "resell",
+    "free pv",
+    "pv_core free",
+    "testserver"
+  ],
+  "reason": "Nicht autorisierter Servername"
+}
